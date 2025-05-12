@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b56bcfd75204cc1b1baa6fd5fec9af, type: 3}
+  m_Name: SuccessModalNode
+  m_EditorClassIdentifier: 
+  nodeId: 2
+  modalPrefab: {fileID: 4976742276128895798, guid: 128570d71cd7b40b3adc76acf4ba34ec, type: 3}
+  nextNodeIds: []
+  onShow:
+    m_PersistentCalls:
+      m_Calls: []
+  onContinue:
+    m_PersistentCalls:
+      m_Calls: []
+  onCancel:
+    m_PersistentCalls:
+      m_Calls: []
